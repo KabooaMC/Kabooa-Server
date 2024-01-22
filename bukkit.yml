@@ -7,7 +7,7 @@ database:
     driver: org.sqlite.JDBC
     isolation: SERIALIZABLE
     url: jdbc:sqlite:{DIR}{NAME}.db
-    username: bukkit
+    username: kabooa
 aliases:
     icanhasbukkit:
     - version
