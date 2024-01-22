@@ -1,9 +1,9 @@
 settings:
     update-folder: update
-    spawn-radius: 16
+    spawn-radius: 0
     permissions-file: permissions.yml
 database:
-    password: walrus
+    password: kabooa
     driver: org.sqlite.JDBC
     isolation: SERIALIZABLE
     url: jdbc:sqlite:{DIR}{NAME}.db
